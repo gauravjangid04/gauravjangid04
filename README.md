@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+
+**- 🔭 I’m currently building e-commerce storenfronts on top of Salesforce B2C Commerce Cloud**
+
+**- ⚡ Integrating Google Analytics (GA4) for enhanced customer tracking**
+
+**- 🌱 Learning deployment tools in salesforce domain**
 
 <!--
 **gauravjangid04/gauravjangid04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
